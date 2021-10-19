@@ -1,0 +1,44 @@
+button, .button {
+
+    .blue & {
+        background-color: #dbeeff;
+        border-color: #8fc5ff;
+    }
+    
+    .yellow & {
+        background-color: #f7e4c0;
+        border-color: #ffbe8f
+    }
+    
+    .brown & {
+        background-color: #f7e4c0;
+        border-color: #ebd4c4; 
+    }
+}
+
+.page {
+    &.blue {
+        background-color: #6868f2;
+        color: white;
+    }
+
+    &.yellow {
+        background-color: #eaef5e;
+        color: #5d4f4f;
+    }
+
+    &.brown {
+        background-color: #eaac6b;
+        color: #ffeae1
+    }
+}
+
+h1 {
+    .yellow & {
+        border-bottom-color: #5d4f4f;
+    }
+
+    .brown & {
+        border-bottom-color: #fcd8ca;
+    }
+}

@@ -1,0 +1,23 @@
+.disciples {
+    text-align: center;
+    display: block;
+}
+
+.profile {
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Saira', sans-serif;
+    line-height: 1.25;
+
+    img {
+        width: 80px;
+        height: 80px;
+        display: block;
+        border-radius: 5px;
+    }
+
+    label {
+        display: block;
+        font-weight: 600;
+    }
+}

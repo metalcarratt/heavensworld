@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@200;600;700&display=swap');
+@import 'colours';
+@import 'profile';
+
+html, body, .top {
+    height: 100%;
+}
+
+.page {
+    width: 600px;
+    height: calc(100% - 60px);
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    overflow: auto;
+
+    @media only screen and (max-width: 600px) {
+        width: 100%;
+    }
+}
+
+h1 {
+    font-family: 'Saira', sans-serif;
+    text-align: right;
+    padding-top: 0;
+    border-bottom: 5px solid white;
+    width: 400px;
+}
+
+h2 {
+    width: 400px;
+    margin: 0 auto;
+    font-family: 'Saira', sans-serif;
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Saira', sans-serif;
+
+    &.message-box {
+        width: 400px;
+        margin: 0 auto;
+    }
+}
+
+ul.choice {
+    @media only screen and (max-width: 600px) {
+        padding-left: 0px;
+    }
+
+    li {
+        width: 200px;
+        margin: 5px;
+        padding: 10px 20px;
+        display: inline-block;
+        vertical-align: top;
+
+        @media only screen and (max-width: 600px) {
+            width: calc( 50% - 80px);
+        }
+    }
+}
+
+button, .button {
+    width: 400px;
+    height: 60px;
+    font-family: 'Saira', sans-serif;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: 5px double #8fc5ff;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: block;
+    background-color: #dbeeff;
+    line-height: 1.25;
+    color: black;
+    font-size: 16px;
+
+
+
+    label {
+        display: block;
+        font-weight: 600;
+    }
+        
+    &:hover {
+        background-color: #bdd0e1;
+        cursor: pointer;
+    }
+}
+
+.clouds {
+    height: 40px;
+    display: inline-block;
+    overflow: hidden;
+
+    .cloud1, .cloud2, .cloud3 {
+        background-color: white;
+        display: inline-block;
+    }
+
+    .cloud1 {
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        margin-top: 10px;
+    }
+
+    .cloud2 {
+        width: 30px;
+        height: 30px;
+        border-radius: 15px;
+        margin-left: -5px;
+    }
+
+    .cloud3 {
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        margin-left: -10px;
+    }
+}
