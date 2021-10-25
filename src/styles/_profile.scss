@@ -20,4 +20,20 @@
         display: block;
         font-weight: 600;
     }
+
+    .role {
+        display: block;
+        color: #a31b1b;
+        font-style: italic;
+    }
+
+    &.hoverable {
+        border: 2px solid #00000000;
+
+        &:hover {
+            cursor: pointer;
+            border: 2px solid #8a8787;
+            border-radius: 5px;
+        }
+    }
 }

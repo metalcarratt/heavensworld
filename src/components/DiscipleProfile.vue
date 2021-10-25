@@ -1,13 +1,14 @@
 <template>
-    <div class="profile">
-        <img :src="disciple.image" />
+    <div :class="['profile', hoverable ? 'hoverable' : '']">
+        <img :src="'images/' + disciple.image" />
         <label>{{ disciple.name }}</label>
-        <span>{{ disciple.job }}</span>
+        <span v-if="!hideJob">{{ disciple.job }}</span>
+        <span class="role">{{ role }}</span>
     </div>
 </template>
 
 <script>
 export default {
-    props: [ 'disciple' ]
+    props: [ 'disciple', 'hoverable', 'hideJob', 'role' ]
 }
 </script>

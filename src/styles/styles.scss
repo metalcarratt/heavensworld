@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Saira:wght@200;600;700&display=swap');
 @import 'colours';
 @import 'profile';
+@import 'map';
+@import 'modal';
 
 html, body, .top {
     height: 100%;
@@ -14,6 +16,7 @@ html, body, .top {
     border-radius: 5px;
     padding: 10px;
     overflow: auto;
+    font-family: 'Saira', sans-serif;
 
     @media only screen and (max-width: 600px) {
         width: 100%;

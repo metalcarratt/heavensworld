@@ -1,0 +1,145 @@
+.row {
+    display: block;
+    height: 52px;
+    text-align: center;
+
+    .cell {
+        background-color: black;
+        width: 50px;
+        height: 50px;
+        display: inline-block;
+        vertical-align: top;
+        border: 1px solid white;
+        text-align: left;
+        position: relative;
+
+        &:hover {
+            cursor: pointer;
+            border-color: white !important;
+        }
+
+        &.grass{
+            background-color: #52c952;
+            border-color: #52c952;
+        }
+
+        &.mountain {
+            background-color: #6c1c1c;
+            border-color: #6c1c1c;
+        }
+
+        &.hill {
+            background-color: #a36666;
+            border-color: #a36666;
+        }
+
+        &.forest {
+            background-color: #136313;
+            border-color: #136313;
+        }
+
+        &.city {
+            background-color: #a1a0a0;
+            border-color: #a1a0a0;
+        }
+
+        &.farm {
+            background-color: #ebeb7c;
+            border-color: #ebeb7c;
+        }
+
+        &.lake {
+            background-color: #7777da;
+            border-color: #7777da;  
+        }
+
+        .sstone {
+            color: yellow;
+            display: block;
+            padding-left: 35px;
+            padding-top: 30px;
+            font-family: sans-serif;    
+        }
+
+        .plants {
+            color: #d9ffd3;
+            display: block;
+            margin-left: 5px;
+            font-family: sans-serif;
+        }
+
+        .soil {
+            color: #d9ffd3;
+            display: block;
+            margin-left: 5px;
+            padding-top: 30px;
+            font-family: sans-serif;
+        }
+
+        .placename {
+            color: white;
+            display: block;
+            font-family: sans-serif;
+            font-size: 12px;
+            padding-top: 34px;
+            text-align: center;
+        }
+
+        .worker {
+            position: absolute;
+            top: 0;
+
+            img {
+                width: 25px;
+                height: 25px;
+                border: 1px solid white;
+                border-radius: 4px;
+            }
+        }
+    }
+}
+
+.details {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+   
+
+    & > span {
+        vertical-align: top;
+        margin: 5px 5px;
+        border: 1px solid green;
+        padding: 5px;
+        display: inline-block;
+        border-radius: 5px;
+
+        button {
+            width: 100%;
+            padding: 5px;
+            height: auto;
+            border-radius: 5px;
+            border: 2px solid #92d679;
+            margin-top: 2px;
+        }
+    }
+}
+
+.detail {
+    width: 150px;
+
+    label {
+        font-weight: 600;
+        display: block;
+        text-align: center;
+    }
+
+    .special {
+        line-height: 1.25;
+        display: block;
+        color: #aca206;
+    }
+
+    .warning {
+        color: #e44141;
+    }
+}

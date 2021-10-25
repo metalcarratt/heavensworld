@@ -14,6 +14,11 @@ button, .button {
         background-color: #f7e4c0;
         border-color: #ebd4c4; 
     }
+
+    .green & {
+        background-color: #c9f4c1;
+        border-color: #92d679;
+    }
 }
 
 .page {
@@ -31,6 +36,11 @@ button, .button {
         background-color: #eaac6b;
         color: #ffeae1
     }
+
+    &.green {
+        background-color: #94eb9d;
+        color: #3fa31b;
+    }
 }
 
 h1 {
@@ -40,5 +50,9 @@ h1 {
 
     .brown & {
         border-bottom-color: #fcd8ca;
+    }
+
+    .green & {
+        border-bottom-color: #3fa31b;
     }
 }

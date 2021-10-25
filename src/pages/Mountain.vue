@@ -3,6 +3,7 @@
         <heading/>
         <message>From a sea of clouds rises a mountain paradise</message>
         <message>Fame: <strong>{{ fame }}</strong></message>
+        <button @click="$router.push('/map')">Map</button>
         <h2>Disciples:</h2>
         <span class="disciples">
             <DiscipleProfile 

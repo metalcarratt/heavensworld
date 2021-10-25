@@ -34,7 +34,8 @@ export default {
             name,
             gender,
             image,
-            job: ''
+            job: '',
+            mining: {}
         }
     }
 }

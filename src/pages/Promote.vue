@@ -7,7 +7,7 @@
         </choices>
         <template v-if="chosen">
             <h2>Success!</h2>
-            <message>The people of {{ choice }} listen rapt to your message.</message>
+            <message>The people of {{ destination }} listen rapt to your message.</message>
             <message>Fame: <strong>+{{ fameUp }}</strong> >> {{ fame }}</message>
             <button @click="goBack">Continue</button>
         </template>

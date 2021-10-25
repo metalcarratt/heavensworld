@@ -4,6 +4,9 @@
         <message>Your teaching inspires many. After listening with rapt attention, one young student
             asks to become your personal disciple.
         </message>
+        <span class="disciples">
+            <DiscipleProfile :disciple="follower" :hideJob="true" />
+        </span>
         <message>"Master, my name is {{ follower.name }}. Please accept me as your disciple!"</message>
         <button v-if="!accepted" @click="accept">Accept</button>
         <template v-if="accepted">
@@ -26,8 +29,10 @@
 <script>
 import disciple from '@/script/disciple.js';
 import store from '@/store/store.js';
+import DiscipleProfile from '@/components/DiscipleProfile.vue';
 
 export default {
+    components: { DiscipleProfile },
     data() {
         return {
             accepted: false,
