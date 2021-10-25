@@ -44,7 +44,7 @@ export default {
     methods: {
         chooseInspiration(inspiration) {
             store.setInspiration(inspiration);
-            this.$router.push('/follower');
+            this.$emit("changePage", "NewFollower");
         }
     }
 }

@@ -39,12 +39,7 @@ export default {
             store.fameUp(this.fameUp);
         },
         goBack() {
-            let r = Math.floor(Math.random() * 20);
-            if (r < store.fame()) {
-                this.$router.push("/follower");
-            } else {
-                this.$router.push("/mountain");
-            }
+            this.$emit("changePage", "Mountain");
         }
     }
 }

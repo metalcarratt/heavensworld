@@ -67,7 +67,7 @@ export default {
         chooseJob(job) {
             this.follower.job = job.name;
             store.addDisciple(this.follower);
-            this.$router.push('/mountain');
+            this.$emit("changePage", "Mountain");
         }
     }
 }

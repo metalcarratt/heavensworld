@@ -3,7 +3,7 @@
         <heading/>
         <message>From a sea of clouds rises a mountain paradise</message>
         <message>Fame: <strong>{{ fame }}</strong></message>
-        <button @click="$router.push('/map')">Map</button>
+        <button @click="$emit('changePage', 'Map')">Map</button>
         <h2>Disciples:</h2>
         <span class="disciples">
             <DiscipleProfile 
@@ -22,7 +22,9 @@
 
 <script>
 import store from '@/store/store.js';
+import turnStore from '@/store/turn.js';
 import DiscipleProfile from '@/components/DiscipleProfile.vue';
+import turnEnd from '@/script/turnEnd.js';
 
 export default {
     components: { DiscipleProfile },
@@ -34,9 +36,20 @@ export default {
             return store.disciples();
         }
     },
+    mounted() {
+        if (turnStore.isTurnOver()) {
+            const endTurnResult = turnEnd.processEndTurn();
+            if (endTurnResult === turnStore.RECRUIT) {
+                this.$emit("changePage", "NewFollower");
+            } else {
+                turnStore.newTurn();
+            }
+        }
+    },
     methods: {
         promote() {
-            this.$router.push('/promote');
+            turnStore.turnOver();
+            this.$emit("changePage", "Promote");
         }
     }
 }

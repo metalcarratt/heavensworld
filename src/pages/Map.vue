@@ -24,7 +24,7 @@
         />
 
         <!-- Buttons -->
-        <button @click="$router.push('/mountain')">Mountain</button>
+        <button @click="$emit('changePage', 'Mountain')">Mountain</button>
 
         <!-- Modals -->
         <modal v-if="isShowingModal">
