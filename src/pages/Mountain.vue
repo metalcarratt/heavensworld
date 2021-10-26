@@ -3,6 +3,7 @@
         <heading/>
         <message>From a sea of clouds rises a mountain paradise</message>
         <message>Fame: <strong>{{ fame }}</strong></message>
+        <message>Stones: <strong>{{ stones }}</strong></message>
         <button @click="$emit('changePage', 'Map')">Map</button>
         <h2>Disciples:</h2>
         <span class="disciples">
@@ -34,6 +35,9 @@ export default {
         },
         disciples() {
             return store.disciples();
+        },
+        stones() {
+            return store.stones();
         }
     },
     mounted() {

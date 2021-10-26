@@ -51,10 +51,7 @@ import CellDetails from './map/CellDetails.vue';
 import store from '@/store/store.js';
 import mapStore from '@/store/map.js';
 import working from '@/script/working.js';
-
-const STONES = 'stones';
-const PLANTS = 'plants';
-const HERBS = 'herbs';
+import resources from '@/script/resources.js';
 
 export default {
     components: { DiscipleProfile, CellDetails },
@@ -73,13 +70,13 @@ export default {
         activity: () => mapStore.activity(),
         disciples: () => store.disciples(),
         isShowingStonesModal() {
-            return this.showModal === STONES;
+            return this.showModal === resources.STONES;
         },
         isShowingPlantsModal() {
-            return this.showModal === PLANTS;
+            return this.showModal === resources.PLANTS;
         },
         isShowingHerbsModal() {
-            return this.showModal === HERBS;
+            return this.showModal === resources.HERBS;
         },
         isShowingModal() {
             return this.showModal !== '';
@@ -90,13 +87,13 @@ export default {
     },
     methods: {
         showStonesModal() {
-            this.showModal = STONES;
+            this.showModal = resources.STONES;
         },
         showPlantsModal() {
-            this.showModal = PLANTS;
+            this.showModal = resources.PLANTS;
         },
         showHerbsModal() {
-            this.showModal = HERBS;
+            this.showModal = resources.HERBS;
         },
         select(rowIndex, cellIndex) {
             this.selected = {

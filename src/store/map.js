@@ -22,7 +22,7 @@ export default {
     soil: () => store.state.soil,
     places: () => store.state.places,
     activity: () => {
-        console.log("mapStore#activity");
+        // console.log("mapStore#activity");
         return store.state.activity;
     },
 

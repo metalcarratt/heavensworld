@@ -4,6 +4,7 @@ import Vuex from 'vuex';
 Vue.use(Vuex);
 
 const RECRUIT = "recruit";
+const ACTIVITIES = "activities";
 const FINISHED = "finished";
 
 const store = new Vuex.Store({
@@ -16,7 +17,7 @@ const store = new Vuex.Store({
 
 
 export default {
-    RECRUIT, FINISHED,
+    RECRUIT, ACTIVITIES, FINISHED,
 
     isTurnOver: () => store.state.turnOver,
 
@@ -33,6 +34,8 @@ export default {
 
     nextStage() {
         if (store.state.stage === RECRUIT) {
+            store.state.stage = ACTIVITIES;
+        } else {
             store.state.stage = FINISHED;
         }
     }

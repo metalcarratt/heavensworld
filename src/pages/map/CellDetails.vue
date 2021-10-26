@@ -52,7 +52,7 @@ export default {
             return this.selected.soil === 1;
         },
         hasWorker() {
-            console.log("CellDetails#hasWorker");
+            // console.log("CellDetails#hasWorker");
             return working.hasWorker(this.selected.rowIndex, this.selected.cellIndex);
         },
         getWorker() {
