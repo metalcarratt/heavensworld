@@ -8,8 +8,8 @@
             <DiscipleProfile :disciple="follower" :hideJob="true" />
         </span>
         <message>"Master, my name is {{ follower.name }}. Please accept me as your disciple!"</message>
-        <button v-if="!accepted" @click="accept">Accept</button>
-        <template v-if="accepted">
+        <button @click="accept">Accept</button>
+        <!-- <template v-if="accepted">
             <h2>Assign a job</h2>
             <message>Disciples can be assigned special tasks. Choose what you want your disciple to
                 focus on.</message>
@@ -22,7 +22,7 @@
                     @click="chooseJob(job)"
                 />
             </choices>
-        </template>
+        </template> -->
     </div>
 </template>
 
@@ -35,25 +35,25 @@ export default {
     components: { DiscipleProfile },
     data() {
         return {
-            accepted: false,
-            jobs: [
-                {
-                    name: 'Herbalist',
-                    blurb: 'Studies nature to concoct elixers'
-                },
-                {
-                    name: 'Miner',
-                    blurb: 'Hunts for spirit stones'
-                },
-                {
-                    name: 'Warrior',
-                    blurb: 'Trains in martial arts'
-                },
-                {
-                    name: 'Scholar',
-                    blurb: 'Contemplates the universe to unlock its secrets'
-                }
-            ],
+            // accepted: false,
+            // jobs: [
+            //     {
+            //         name: 'Herbalist',
+            //         blurb: 'Studies nature to concoct elixers'
+            //     },
+            //     {
+            //         name: 'Miner',
+            //         blurb: 'Hunts for spirit stones'
+            //     },
+            //     {
+            //         name: 'Warrior',
+            //         blurb: 'Trains in martial arts'
+            //     },
+            //     {
+            //         name: 'Scholar',
+            //         blurb: 'Contemplates the universe to unlock its secrets'
+            //     }
+            // ],
             follower: {}
         }
     },
@@ -62,13 +62,15 @@ export default {
     },
     methods: {
         accept() {
-            this.accepted = true;
-        },
-        chooseJob(job) {
-            this.follower.job = job.name;
+            // this.accepted = true;
             store.addDisciple(this.follower);
             this.$emit("changePage", "Mountain");
         }
+        // chooseJob(job) {
+        //     this.follower.job = job.name;
+        //     store.addDisciple(this.follower);
+        //     this.$emit("changePage", "Mountain");
+        // }
     }
 }
 </script>

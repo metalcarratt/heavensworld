@@ -1,6 +1,8 @@
 import store from '@/store/store.js';
 import turnStore from '@/store/turn.js';
 import resources from '@/script/resources.js';
+import mapStore from '@/store/map.js';
+import herbsUtil from '@/heavensworld/herbs/herbs.js';
 
 export default {
     processEndTurn() {
@@ -19,6 +21,9 @@ export default {
             this.performActivities();
             return this.processEndTurn();
 
+        } else if (stage === turnStore.REPORT) {
+            return turnStore.REPORT;
+        
         } else {
             return turnStore.FINISHED;    
         }
@@ -33,9 +38,44 @@ export default {
         store.disciples().forEach(disciple => {
             if (disciple.activity) {
                 if (disciple.activity.activity === resources.STONES) {
-                    store.addStones(1);
+                    this.doMining(disciple);
+                } else if (disciple.activity.activity === resources.PLANTS) {
+                    this.doGathering(disciple);
+                } else if (disciple.activity.activity === resources.HERBS) {
+                    this.doFarming(disciple);
                 }
             }
         })
+    },
+
+    doMining(disciple) {
+        const addStones = 1;
+        store.addStones(addStones);
+        disciple.exp.mining = disciple.exp.mining + addStones;
+        turnStore.addReport('mining', addStones, store.stones());
+    },
+
+    doGathering(disciple) {
+        // remove plants
+        mapStore.removePlantsAt(disciple.activity.row, disciple.activity.cell);
+        // remove disciple job
+        mapStore.removeActivityAt(disciple.activity.row, disciple.activity.cell);
+        disciple.activity = null;
+        // choose random plant
+        const herb = herbsUtil.acquireRandomHerb();
+        // add to herbery
+        const addHerbs = 4;
+        store.addHerbs(herb, addHerbs);
+        // herb exp
+        disciple.exp.herbs += 1;
+        turnStore.addReport('herb-' + herb, addHerbs, store.herbs()[herb]);
+    },
+
+    doFarming(disciple) {
+        let r = Math.floor(Math.random() * 2) + 2;
+        const herb = disciple.activity.target;
+        store.addHerbs(herb, r);
+        turnStore.addReport('herb-' + herb, r, store.getHerb(herb));
+        disciple.exp.herbs += 1;
     }
 }

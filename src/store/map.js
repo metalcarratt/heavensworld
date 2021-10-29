@@ -34,5 +34,8 @@ export default {
     },
     removeActivityAt(row, cell) {
         Vue.set(store.state.activity[row], cell, null);
+    },
+    removePlantsAt(row, cell) {
+        Vue.set(store.state.plants[row], cell, 0);
     }
 }

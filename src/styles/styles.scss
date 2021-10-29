@@ -3,6 +3,7 @@
 @import 'profile';
 @import 'map';
 @import 'modal';
+@import 'herbs';
 
 html, body, .top {
     height: 100%;
@@ -122,5 +123,29 @@ button, .button {
         height: 50px;
         border-radius: 25px;
         margin-left: -10px;
+    }
+}
+
+.img-btn {
+    border-radius: 15px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: top;
+
+    &:hover {
+        box-shadow: 0 0 10px black;
+        cursor: pointer;    
+    }
+
+    img {
+        width: 100px;
+        height: 100px;
+        display: block;
+        border-radius: 15px;
+    }
+
+    label {
+        display: block;
+        text-align: center;
     }
 }

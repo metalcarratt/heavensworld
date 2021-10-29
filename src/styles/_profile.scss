@@ -8,12 +8,24 @@
     padding: 10px;
     font-family: 'Saira', sans-serif;
     line-height: 1.25;
+    position: relative;
 
     img {
         width: 80px;
         height: 80px;
         display: block;
         border-radius: 5px;
+    }
+
+    img.job {
+        width: 20px;
+        height: 20px;
+        background-color: white;
+
+        position: absolute;
+        margin-top: -20px;
+        margin-left: 60px;
+        border: 1px solid black;
     }
 
     label {

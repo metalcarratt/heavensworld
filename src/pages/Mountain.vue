@@ -4,15 +4,22 @@
         <message>From a sea of clouds rises a mountain paradise</message>
         <message>Fame: <strong>{{ fame }}</strong></message>
         <message>Stones: <strong>{{ stones }}</strong></message>
-        <button @click="$emit('changePage', 'Map')">Map</button>
+        <message>
+            <img-btn src="images/icon_map.PNG" @click.native="$emit('changePage', 'Map')" label="Map" />
+            <img-btn src="images/icon_resources.jpg" @click.native="$emit('changePage', 'Resources')" label="Resources" />
+            <img-btn src="images/icon_herbs.PNG" @click.native="$emit('changePage', 'Herbery')" label="Herbery" />
+        </message>
         <h2>Disciples:</h2>
         <span class="disciples">
             <DiscipleProfile 
                 v-for="(disciple, index) of disciples"
                 :key="index"
                 :disciple="disciple"
+                :hoverable="true"
+                @click.native="showDisciple(disciple)"
             />
         </span>
+        <button @click="endTurn">End Turn</button>
         <button @click="promote">Promote teachings</button>
         <button>Cultivate</button>
         <button>Seek Enlightenment</button>
@@ -23,6 +30,7 @@
 
 <script>
 import store from '@/store/store.js';
+import pageStore from '@/store/page.js';
 import turnStore from '@/store/turn.js';
 import DiscipleProfile from '@/components/DiscipleProfile.vue';
 import turnEnd from '@/script/turnEnd.js';
@@ -41,19 +49,34 @@ export default {
         }
     },
     mounted() {
-        if (turnStore.isTurnOver()) {
-            const endTurnResult = turnEnd.processEndTurn();
-            if (endTurnResult === turnStore.RECRUIT) {
-                this.$emit("changePage", "NewFollower");
-            } else {
-                turnStore.newTurn();
-            }
-        }
+        this.processEndTurn();
     },
     methods: {
+        processEndTurn() {
+            if (turnStore.isTurnOver()) {
+                const endTurnResult = turnEnd.processEndTurn();
+                if (endTurnResult === turnStore.RECRUIT) {
+                    this.$emit("changePage", "NewFollower");
+
+                } else if (endTurnResult === turnStore.REPORT) {
+                    this.$emit("changePage", "EndTurnReport");
+                    
+                } else {
+                    turnStore.newTurn();
+                }
+            }
+        },
+        endTurn() {
+            turnStore.turnOver();
+            this.processEndTurn();
+        },
         promote() {
             turnStore.turnOver();
             this.$emit("changePage", "Promote");
+        },
+        showDisciple(disciple) {
+            pageStore.setViewDisciple(disciple);
+            this.$emit("changePage", "Disciple");
         }
     }
 }

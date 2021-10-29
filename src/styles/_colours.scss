@@ -22,22 +22,22 @@ button, .button {
 }
 
 .page {
-    &.blue {
+    &.blue { // inspiration
         background-color: #6868f2;
         color: white;
     }
 
-    &.yellow {
+    &.yellow { // new follower, promote, disciple
         background-color: #eaef5e;
         color: #5d4f4f;
     }
 
-    &.brown {
+    &.brown { // mountain, resources
         background-color: #eaac6b;
         color: #ffeae1
     }
 
-    &.green {
+    &.green { // map, herbery
         background-color: #94eb9d;
         color: #3fa31b;
     }

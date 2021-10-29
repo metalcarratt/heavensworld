@@ -27,13 +27,12 @@
         <button @click="$emit('changePage', 'Mountain')">Mountain</button>
 
         <!-- Modals -->
-        <modal v-if="isShowingModal">
+        <modal v-if="isShowingModal && !isShowingHerbsModal">
             <h3 v-if="isShowingStonesModal">Send who to mine stones?</h3>
             <h3 v-else-if="isShowingPlantsModal">Send who to gather plants?</h3>
-            <h3 v-else-if="isShowingHerbsModal">Send who to plant herbs?</h3>
 
             <DiscipleProfile 
-                v-for="(disciple, index) of disciples"
+                v-for="(disciple, index) of orderedDisciples"
                 :key="index"
                 :disciple="disciple"
                 :hoverable="true"
@@ -42,23 +41,34 @@
 
             <button @click="showModal = ''">Cancel</button>
         </modal>
+
+        <FarmHerbs
+            v-if="isShowingHerbsModal"
+            :row="selected.rowIndex"
+            :cell="selected.cellIndex"
+            @close="showModal = ''"
+        />
     </div>
 </template>
 
 <script>
 import DiscipleProfile from '@/components/DiscipleProfile.vue';
 import CellDetails from './map/CellDetails.vue';
+import FarmHerbs from '@/pages/map/FarmHerbs.vue';
+
 import store from '@/store/store.js';
 import mapStore from '@/store/map.js';
 import working from '@/script/working.js';
 import resources from '@/script/resources.js';
 
 export default {
-    components: { DiscipleProfile, CellDetails },
+    components: { DiscipleProfile, CellDetails, FarmHerbs },
     data() {
         return {
             selected: {},
             showModal: '',
+            chooseHerbModal: false,
+            orderedDisciples: []
         }
     },
     computed: {
@@ -69,6 +79,7 @@ export default {
         places: () => mapStore.places(),
         activity: () => mapStore.activity(),
         disciples: () => store.disciples(),
+        herbs: () => store.getHerbs(),
         isShowingStonesModal() {
             return this.showModal === resources.STONES;
         },
@@ -80,6 +91,9 @@ export default {
         },
         isShowingModal() {
             return this.showModal !== '';
+        },
+        choosingHerbModal() {
+            return this.chooseHerbModal;
         }
     },
     mounted() {
@@ -88,12 +102,15 @@ export default {
     methods: {
         showStonesModal() {
             this.showModal = resources.STONES;
+            this.orderDisciples();
         },
         showPlantsModal() {
             this.showModal = resources.PLANTS;
+            this.orderDisciples();
         },
         showHerbsModal() {
             this.showModal = resources.HERBS;
+            this.orderDisciples();
         },
         select(rowIndex, cellIndex) {
             this.selected = {
@@ -107,8 +124,18 @@ export default {
             }
         },
         sendWorker(disciple) {
-            working.startActivity(this.selected.rowIndex, this.selected.cellIndex, disciple, this.showModal);
+            if (this.showModal === resources.HERBS) {
+                this.chooseHerbModal = true;
+            } else {
+                working.startActivity(this.selected.rowIndex, this.selected.cellIndex, disciple, this.showModal);
+            }
             this.showModal = '';
+        },
+        orderDisciples() {
+            this.orderedDisciples = store.orderedDisciples();
+        },
+        getHerb(herb) {
+            return store.getHerb(herb);
         }
     }
 }

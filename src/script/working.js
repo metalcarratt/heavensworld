@@ -1,14 +1,15 @@
 import mapStore from '@/store/map.js';
 
 export default {
-    startActivity(row, cell, disciple, activity) {
+    startActivity(row, cell, disciple, activity, target = undefined) {
         if (disciple.activity) {
             this.removeWorkerAt(disciple.activity.row, disciple.activity.cell);
         }
         disciple.activity = {
             row,
             cell,
-            activity
+            activity,
+            target
         };
         mapStore.setActivityAt(row, cell, disciple, activity);
     },

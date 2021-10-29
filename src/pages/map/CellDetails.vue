@@ -10,12 +10,13 @@
 
             <template v-if="hasPlants">
                 <span class="special" >discovered spirit plants</span>
-                <button @click="gatherPlants" v-if="!hasWorker">Gather</button>
+                <button @click="gatherPlants">Gather</button>
             </template>
 
             <template v-if="hasSoil">
                 <span class="special" >has rich soil</span>
-                <button @click="plantHerbs">Plant herbs</button>
+                <button @click="plantHerbs" v-if="!hasWorker && hasHerbs">Plant herbs</button>
+                <span v-else-if="!hasHerbs" class="role">No herbs to plant</span>
             </template>
 
             <span class="warning" v-if="isMortalTerritory">Mortal territory</span>
@@ -34,6 +35,7 @@
 <script>
 import DiscipleProfile from '@/components/DiscipleProfile.vue';
 import working from '@/script/working.js';
+import store from '@/store/store.js';
 
 export default {
     props: [ 'selected' ],
@@ -60,6 +62,9 @@ export default {
         },
         isMortalTerritory() {
             return this.selected.type === 'city' || this.selected.type === 'farm';
+        },
+        hasHerbs() {
+            return store.hasHerbs();
         }
     },
     methods: {

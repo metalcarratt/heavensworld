@@ -10,6 +10,10 @@ import NewFollower from '@/pages/NewFollower.vue';
 import Map from '@/pages/Map.vue';
 import Mountain from '@/pages/Mountain';
 import Promote from '@/pages/Promote';
+import Disciple from '@/pages/Disciple';
+import Resources from '@/pages/Resources.vue';
+import Herbery from '@/pages/Herbery.vue';
+import EndTurnReport from '@/pages/EndTurnReport.vue';
 
 // const MOUNTAIN_PAGE = "Mountain";
 const INSPIRATION_PAGE = "Inspiration";
@@ -20,7 +24,7 @@ const INSPIRATION_PAGE = "Inspiration";
 export default {
   name: 'App',
   components: {
-    Inspiration, NewFollower, Map, Mountain, Promote
+    Inspiration, NewFollower, Map, Mountain, Promote, Disciple, Resources, Herbery, EndTurnReport
   },
   data() {
     return {

@@ -35,7 +35,10 @@ export default {
             gender,
             image,
             job: '',
-            mining: {}
+            exp: {
+                mining: 0,
+                herbs: 0
+            }
         }
     }
 }
