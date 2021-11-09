@@ -2,15 +2,11 @@ import mapStore from '@/store/map.js';
 
 export default {
     startActivity(row, cell, disciple, activity, target = undefined) {
-        if (disciple.activity) {
+        console.log(`startActivity(${row}, ${cell}, ${disciple}, ${activity})`);
+        if (disciple.hasJob()) {
             this.removeWorkerAt(disciple.activity.row, disciple.activity.cell);
         }
-        disciple.activity = {
-            row,
-            cell,
-            activity,
-            target
-        };
+        disciple.setJob(row, cell, activity, target);
         mapStore.setActivityAt(row, cell, disciple, activity);
     },
     hasWorker: (row, cell) => {
@@ -22,6 +18,6 @@ export default {
     removeWorkerAt(row, cell) {
         const activity = mapStore.activity()[row][cell];
         mapStore.removeActivityAt(row, cell);
-        activity.disciple.activity = null;
+        activity.disciple.removeJob();
     }
 }

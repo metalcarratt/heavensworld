@@ -7,7 +7,7 @@
 <script>
 import Inspiration from '@/pages/Inspiration.vue';
 import NewFollower from '@/pages/NewFollower.vue';
-import Map from '@/pages/Map.vue';
+import ResourceMap from '@/pages/ResourceMap.vue';
 import Mountain from '@/pages/Mountain';
 import Promote from '@/pages/Promote';
 import Disciple from '@/pages/Disciple';
@@ -24,7 +24,7 @@ const INSPIRATION_PAGE = "Inspiration";
 export default {
   name: 'App',
   components: {
-    Inspiration, NewFollower, Map, Mountain, Promote, Disciple, Resources, Herbery, EndTurnReport
+    Inspiration, NewFollower, ResourceMap, Mountain, Promote, Disciple, Resources, Herbery, EndTurnReport
   },
   data() {
     return {

@@ -126,11 +126,19 @@ button, .button {
     }
 }
 
+.buttons {
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 .img-btn {
     border-radius: 15px;
     display: inline-block;
     margin-right: 5px;
     vertical-align: top;
+    position: relative;
 
     &:hover {
         box-shadow: 0 0 10px black;
@@ -145,7 +153,17 @@ button, .button {
     }
 
     label {
+        margin-top: -19px;
+        background-color: #fffa;
         display: block;
+        position: absolute;
         text-align: center;
+        padding: 0px 2px;
+        border-radius: 15px;
+        color: #352d2d;
+        width: 100px;
+        box-sizing: border-box;
+        font-weight: 600;
+        font-size: 12px;
     }
 }

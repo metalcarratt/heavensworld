@@ -5,7 +5,7 @@ import Heading from '@/components/Heading.vue';
 import Message from '@/components/Message.vue';
 import Choices from '@/components/Choices.vue';
 import Choice from '@/components/Choice.vue';
-import Modal from '@/components/Modal.vue';
+import Modal from '@/heavensworld/modal/Modal.vue';
 import ImgBtn from '@/components/ImgBtn.vue';
 
 Vue.config.productionTip = false

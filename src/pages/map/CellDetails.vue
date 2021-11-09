@@ -21,7 +21,7 @@
 
             <span class="warning" v-if="isMortalTerritory">Mortal territory</span>
         </span>
-        <span class="worker" v-if="hasWorker">
+        <span class="worker detail" v-if="hasWorker">
             <DiscipleProfile 
                 :disciple="getWorker"
                 :hideJob="true"
@@ -29,17 +29,24 @@
             />
             <button @click="removeWorker">Remove</button>
         </span>
+
+        <AssignWorkerModals
+            v-if="hasModal"
+            :selected="selected"
+        />
     </div>
 </template>
 
 <script>
 import DiscipleProfile from '@/components/DiscipleProfile.vue';
+import AssignWorkerModals from './AssignWorkerModals.vue';
 import working from '@/script/working.js';
 import store from '@/store/store.js';
+import modal from '@/heavensworld/modal/modal.js';
 
 export default {
     props: [ 'selected' ],
-    components: { DiscipleProfile },
+    components: { DiscipleProfile, AssignWorkerModals },
     computed: {
         getLabel() {
             return this.selected.type + (this.selected.placename !== '' ? ' - ' + this.selected.placename : '');
@@ -54,7 +61,6 @@ export default {
             return this.selected.soil === 1;
         },
         hasWorker() {
-            // console.log("CellDetails#hasWorker");
             return working.hasWorker(this.selected.rowIndex, this.selected.cellIndex);
         },
         getWorker() {
@@ -65,17 +71,18 @@ export default {
         },
         hasHerbs() {
             return store.hasHerbs();
-        }
+        },
+        hasModal: () => modal.showing()
     },
     methods: {
         mineStones() {
-            this.$emit('showStonesModal');
+            modal.show(modal.MINE_STONES_MODAL);
         },
         gatherPlants() {
-            this.$emit('showPlantsModal');
+            modal.show(modal.GATHER_PLANTS_MODAL);
         },
         plantHerbs() {
-            this.$emit('showHerbsModal')
+            modal.show(modal.FARM_HERBS_MODAL);
         },
         removeWorker() {
             console.log("CellDetails#removeWorker");

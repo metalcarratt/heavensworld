@@ -51,7 +51,7 @@ export default {
     doMining(disciple) {
         const addStones = 1;
         store.addStones(addStones);
-        disciple.exp.mining = disciple.exp.mining + addStones;
+        disciple.expUp('mining', 1);
         turnStore.addReport('mining', addStones, store.stones());
     },
 
@@ -60,14 +60,14 @@ export default {
         mapStore.removePlantsAt(disciple.activity.row, disciple.activity.cell);
         // remove disciple job
         mapStore.removeActivityAt(disciple.activity.row, disciple.activity.cell);
-        disciple.activity = null;
+        disciple.removeJob();
         // choose random plant
         const herb = herbsUtil.acquireRandomHerb();
         // add to herbery
         const addHerbs = 4;
         store.addHerbs(herb, addHerbs);
         // herb exp
-        disciple.exp.herbs += 1;
+        disciple.expUp('herbs', 1);
         turnStore.addReport('herb-' + herb, addHerbs, store.herbs()[herb]);
     },
 
@@ -76,6 +76,6 @@ export default {
         const herb = disciple.activity.target;
         store.addHerbs(herb, r);
         turnStore.addReport('herb-' + herb, r, store.getHerb(herb));
-        disciple.exp.herbs += 1;
+        disciple.expUp('herbs', 1);
     }
 }

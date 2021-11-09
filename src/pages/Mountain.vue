@@ -5,9 +5,9 @@
         <message>Fame: <strong>{{ fame }}</strong></message>
         <message>Stones: <strong>{{ stones }}</strong></message>
         <message>
-            <img-btn src="images/icon_map.PNG" @click.native="$emit('changePage', 'Map')" label="Map" />
-            <img-btn src="images/icon_resources.jpg" @click.native="$emit('changePage', 'Resources')" label="Resources" />
-            <img-btn src="images/icon_herbs.PNG" @click.native="$emit('changePage', 'Herbery')" label="Herbery" />
+            <img-btn src="svg/map.png" @click.native="$emit('changePage', 'ResourceMap')" label="Map" />
+            <img-btn src="svg/stone.png" @click.native="$emit('changePage', 'Resources')" label="Resources" />
+            <img-btn src="svg/herb.PNG" @click.native="$emit('changePage', 'Herbery')" label="Herbery" />
         </message>
         <h2>Disciples:</h2>
         <span class="disciples">

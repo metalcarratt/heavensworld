@@ -2,7 +2,12 @@
     <div class="page green">
         <heading />
         <Herb v-for="(herb, index) in Object.keys(herbs)" :key="index" :herb="herb" :quantity="herbs[herb]" @click.native="selectedHerb=herb" />
-        <button @click="$emit('changePage', 'Mountain')">Back</button>
+        
+
+        <div class="buttons">
+            <img-btn src="svg/mountains.png" @click.native="$emit('changePage', 'Mountain')" label="Hall" />
+        </div>
+
         <modal v-if="selectedHerb">
             <div class="herb-description">
                 <label>{{ selectedHerb }}</label>

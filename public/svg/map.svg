@@ -1,0 +1,2577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg10701"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10703"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51150168"
+     inkscape:cx="999.99671"
+     inkscape:cy="302.05179"
+     inkscape:window-width="3200"
+     inkscape:window-height="1721"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10698">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern21411"
+       id="pattern22530"
+       patternTransform="matrix(0.93135051,0,0,0.98279516,72.336024,177.90752)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="670.57461"
+       height="56.695797"
+       patternTransform="translate(72.336024,177.90752)"
+       id="pattern21411">
+      <rect
+         style="fill:#f4eed7;fill-opacity:1;stroke-width:0.999999"
+         id="rect21035"
+         width="670.57458"
+         height="56.695797"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6f917c;fill-opacity:0.748988;stroke-width:0.264583"
+       id="rect10727"
+       width="150"
+       height="150"
+       x="34.381779"
+       y="61.814041"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g12094"
+       transform="translate(-71.415333,-75.713055)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-8"
+       transform="translate(-87.085485,-75.143156)"
+       style="fill:#6f927c;fill-opacity:0.97570848"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-7"
+       transform="translate(-104.18494,-75.051713)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-3"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-6"
+       transform="translate(-119.82133,-74.960279)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-4"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-64"
+       transform="translate(-71.906302,-67.736446)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-95"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-41"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-9"
+       transform="translate(-86.994049,-67.827885)"
+       style="fill:#6f927c;fill-opacity:0.96356273"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:0.96356273;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.96356273;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.96356273;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.96356273;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-43"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-76"
+       transform="translate(-107.97336,-67.869386)"
+       style="fill:#6f927c;fill-opacity:0.97570848"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-92"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-53"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-29"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.97570848;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-9"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-5"
+       transform="translate(-70.809012,-58.043706)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-09"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-22"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-8"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-2"
+       transform="translate(-83.336413,-58.043715)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-36"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-00"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-1"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-20"
+       transform="translate(-69.254517,-49.539708)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-32"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-45"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-52"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-3"
+       transform="translate(-85.530994,-49.356828)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-56"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-30"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-75"
+       transform="translate(-105.46511,-49.595508)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-55"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-96"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-32"
+       transform="translate(-67.700022,-39.298328)"
+       style="fill:#6f927c;fill-opacity:0.98380572"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:0.98380572;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-01"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.98380572;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-02"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.98380572;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-25"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.98380572;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-5"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-87"
+       transform="translate(-82.056241,-39.115446)"
+       style="fill:#6f927c;fill-opacity:0.99190283"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:0.99190283;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-79"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.99190283;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-60"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.99190283;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-23"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:0.99190283;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-40"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-71"
+       transform="translate(-98.972805,-39.298329)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-02"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-44"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-54"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83"
+       transform="translate(-70.991894,-29.605594)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-5"
+       transform="translate(-85.896758,-29.148389)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-8"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-9"
+       transform="translate(-101.62459,-29.605594)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-9"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-3"
+       transform="translate(-70.260367,-18.998451)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-39"
+       transform="translate(-87.176931,-18.90701)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-47"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-6"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-2"
+       transform="matrix(0.86854675,0,0,1.0013164,-31.685897,-8.0249981)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-3"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-0"
+       transform="translate(-79.495896,-7.934104)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-76"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-36"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-1"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-7"
+       transform="translate(-94.949406,-8.2084266)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-42"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-20"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-72"
+       transform="translate(-110.03715,-7.9341044)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-53"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-27"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-37"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-86"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-1"
+       transform="translate(-70.260366,2.5815982)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-75"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-41"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-62"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-4"
+       transform="translate(-84.799468,2.8559208)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-11"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-22"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-70"
+       transform="translate(-101.62459,2.7644796)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-95"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-34"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-72"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-53"
+       transform="translate(-116.34657,3.0388019)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-83"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-42"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-415"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-69"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-35"
+       transform="translate(-133.44602,3.4045654)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-21"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-66"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-00"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-3"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-23"
+       transform="translate(-154.98659,0.97405)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-00"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-37"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-31"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-89"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-55"
+       transform="translate(-168.92509,0.84422128)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-40"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-954"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-55"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-60"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-49"
+       transform="translate(-209.15907,-12.68903)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-37"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-20"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-360"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-15"
+       transform="translate(-182.45833,-1.4418016)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-82"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-84"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-03"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-5"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-22"
+       transform="translate(-197.45464,-1.0760376)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-89"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-88"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-46"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-4"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-52"
+       transform="translate(-211.90229,-0.9845967)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-96"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-30"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-01"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-18"
+       transform="translate(-70.168926,12.914418)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-15"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-60"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-890"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-03"
+       transform="translate(-86.719726,12.822977)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-29"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-82"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-463"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-33"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-6"
+       transform="translate(-102.72188,12.548654)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-06"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-756"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-56"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-77"
+       transform="translate(-119.45556,12.640095)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-30"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-91"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-01"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-80"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-68"
+       transform="translate(-135.09196,12.914418)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-50"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-605"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-7"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-90"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-36"
+       transform="translate(-147.7108,12.640096)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-28"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-881"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-469"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-51"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:#d3bc5f;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.4569,61.814047 c 1.34113,0.487686 2.68227,0.975371 4.0234,1.463053 1.58498,0.243843 3.22336,0.256215 4.75493,0.731528 1.83849,0.570566 5.8126,2.317118 8.04679,3.657637 11.52584,6.915502 2.35183,1.324042 10.24138,6.583744 0.3208,0.213863 0.82467,0.09314 1.09729,0.365762 0.98296,0.982959 1.62101,2.267144 2.56035,3.291872 2.21195,2.413037 2.52051,2.67983 1.46305,5.852218 -0.46219,1.386562 1.59129,0.750457 1.82882,1.463054 0.18499,0.55496 0.45184,5.40037 0.36576,5.486452 -1.70305,1.703049 -11.49035,0.344094 -13.89901,0 -5.58776,-0.79825 2.18922,0.198046 -2.56035,-1.09729 -0.94832,-0.258633 -1.96223,-0.17299 -2.92611,-0.365763 -2.47631,-0.495265 -5.17343,-2.3681 -6.9495,0 -0.43892,0.585221 -0.0808,1.467527 0,2.194581 0.30429,2.738647 1.19299,1.924517 2.56034,3.291877 0.19278,0.19277 0.12193,0.6096 0.36577,0.73152 0.77109,0.38555 1.78925,-0.0198 2.56034,0.36577 0.78914,0.39456 1.23325,1.22272 2.19458,1.46305 0.23656,0.0591 0.52244,-0.12546 0.73153,0 2.0916,1.25496 3.92187,3.881548 4.38916,6.217978 0.68197,3.40982 -7.16666,2.99465 -8.41256,5.48645 -1.15915,2.31831 -0.25394,3.71355 1.82882,4.75492 3.2862,1.64311 9.86043,-0.55244 13.53325,0.36577 0.88535,0.22133 0.73433,0.55075 1.46306,1.09729 0.58522,0.43892 1.73774,0.73182 2.19458,1.09729 1.68945,1.35156 2.8711,3.23686 4.38916,4.75493 1.90994,1.90994 2.19458,3.67909 2.19458,6.21798 0,0.36576 0.16357,0.77014 0,1.09729 -0.31637,0.63274 -4.8455,1.46305 -5.85222,1.46305 -3.87046,0 -7.84997,0.27532 -11.70443,0 -3.45177,-0.24655 -8.95902,-1.41205 -12.0702,0.36577 -5.31481,3.03703 -0.52619,3.7603 2.19458,5.12069 0.48223,0.24111 1.12201,2.83599 0.73153,2.9261 -1.22369,0.28239 -5.94324,-0.17378 -7.68103,0 -3.64985,0.36499 -11.95813,2.44828 -14.99631,5.48645 -0.60216,0.60216 0.99479,2.32622 1.46305,2.56035 0.73153,0.24384 1.46306,0.48769 2.19459,0.73153 0.24384,0.24384 0.43008,0.56405 0.73152,0.73152 1.13111,0.6284 4.52585,1.12134 3.65764,3.29188 -0.16326,0.40815 -0.33834,0.9007 -0.73153,1.09729 -2.30577,1.15288 -5.58983,1.09729 -8.0468,1.09729 -6.83584,0 -11.97499,-4.59625 -15.362065,-10.24138 -0.337801,-0.563 -0.393726,-1.26582 -0.731528,-1.82882 -1.38889,-2.31482 -2.142479,-3.12097 -4.389162,-4.75492 -0.493008,-0.35856 -0.897048,-0.87089 -1.463053,-1.09729 -0.688575,-0.27544 -1.462426,-0.24768 -2.194581,-0.36577 -3.047415,-0.49152 -6.073399,-1.14811 -9.14409,-1.46305 -4.972682,-0.51002 -9.997535,0 -14.996305,0 -0.853448,0 -1.850232,-0.47341 -2.560344,0 -0.362752,0.24183 -0.959289,3.40239 -1.097291,4.0234 -0.401534,1.8069 0.353825,1.46305 -2.194581,1.46305 -1.584971,0 -3.200731,0.31084 -4.754931,0 -6.03737,-1.20747 -9.96296,-6.03938 -12.43595,-11.33867 -4.78782,-10.2596 0.85112,1.39629 -1.46306,-4.38916 -0.50741,-1.26852 -0.15414,0.21162 -0.73153,-0.36577 -0.0862,-0.0862 0.10905,-0.31124 0,-0.36576 -0.21809,-0.10905 -0.50019,0.0771 -0.73152,0 -0.36425,-0.12141 -0.73305,-0.61011 -1.09729,-0.73153 -1.04246,-0.34748 -2.57618,-0.0413 -3.65764,-0.36576 -0.52225,-0.15667 0.48768,-59.375609 0,-59.619459"
+       id="path10965"
+       sodipodi:nodetypes="ccscssssscsssscsscccssssssssssssssssccssssssssssssssssssssssc"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g12094-83-94"
+       transform="translate(-160.14676,12.457213)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-151"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-26"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-71"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-04"
+       transform="translate(-173.95433,11.634245)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-39"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-38"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-51"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-91"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-75"
+       transform="translate(-187.76191,10.811278)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-95"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-74"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-33"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-25"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-30"
+       transform="translate(-202.57532,10.719836)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-306"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-29"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-96"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-55"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-8"
+       transform="translate(-215.19417,12.731537)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-23"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-22"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-58"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-44"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-43"
+       transform="translate(-70.900444,23.155797)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-74"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-94"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-64"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-602"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-46"
+       transform="translate(-86.353963,23.247238)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-32"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-44"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-38"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-81"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-708"
+       transform="translate(-101.07595,23.43012)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-70"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-40"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-65"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-49"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-33"
+       transform="translate(-115.98081,23.338679)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-12"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-34"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-63"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-09"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-51"
+       transform="translate(-131.89152,23.795884)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-400"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-93"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-19"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-00"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-32"
+       transform="translate(-147.07071,23.887324)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-87"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-660"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-35"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-03"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-88"
+       transform="translate(-161.97557,23.887324)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-48"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-444"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-011"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-99"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-726"
+       transform="translate(-176.33179,23.704443)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-13"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-17"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-992"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-58"
+       transform="translate(-191.87674,22.790034)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-397"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-59"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-60"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-39"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-31"
+       transform="translate(-69.437395,35.317435)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-744"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-99"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-39"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-561"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-41"
+       transform="translate(-82.422004,35.591758)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-281"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-68"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-553"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-47"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-60"
+       transform="translate(-96.961106,35.317435)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-838"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-96"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-09"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-330"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-320"
+       transform="translate(-111.043,34.951672)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-80"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-395"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-12"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-97"
+       transform="translate(-127.1366,34.860231)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-73"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-32"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-30"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-65"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-363"
+       transform="translate(-141.00184,36.02771)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-80"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-87"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-44"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-70"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-228"
+       transform="translate(-154.75174,35.957522)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-303"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-98"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-631"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-015"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-71"
+       transform="translate(-69.711722,44.918728)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-806"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-423"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-59"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-36"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-581"
+       transform="translate(-83.885059,45.375933)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-63"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-41"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-08"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-87"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-354"
+       transform="translate(-101.89891,45.833137)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-76"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-18"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-038"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-67"
+       transform="translate(-119.27269,47.20475)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-60"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-98"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-35"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:#d3bc5f;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.85776,182.15025 c 1.83761,-0.73103 3.57795,-2.82466 4.0234,-4.75493 0.0822,-0.3564 -0.0331,-0.73303 0,-1.09729 0.0563,-0.61913 0.29711,-1.21095 0.36576,-1.82882 0.0471,-0.42412 -0.11723,-0.86987 0,-1.28017 0.0749,-0.26214 0.33864,-0.46026 0.36576,-0.73153 0.10622,-1.06217 -0.58678,-2.00391 -0.36576,-3.10899 0.17437,-0.87188 1.08257,-1.76995 1.28017,-2.56035 0.14102,-0.56408 0.16055,-2.54917 0.54865,-2.74322 0.75569,-0.37785 3.27104,2.94579 3.84051,3.65764 0.74042,0.92551 1.53076,1.89651 2.37747,2.74322 0.11462,0.11462 0.83229,0.62889 0.91441,0.73153 0.22205,0.27756 0.31457,0.6469 0.54864,0.91441 0.20841,0.23817 1.88447,1.80495 2.19458,2.0117 0.56709,0.37806 1.2401,0.57099 1.82882,0.9144 1.61286,0.94084 0.37187,0.25328 2.56034,1.64594 0.37307,0.23741 0.32046,0.18288 0.73153,0.18288 0.41355,0 -0.43977,0.17862 -0.54864,-0.36576 -0.0378,-0.18903 0.11368,-0.36872 0.18288,-0.54865 0.6298,-1.63749 1.37438,-3.16162 2.0117,-4.75492 0.36099,-0.90248 -0.50387,-3.19855 -0.18288,-3.84052 0.0983,-0.19659 0.28413,-0.34457 0.36576,-0.54865 0.27667,-0.69166 0.13992,-2.78263 1.46305,-2.19458 1.18857,0.52826 0.85936,0.6247 1.64594,1.28018 0.39884,0.33236 0.77892,0.48991 1.09729,0.9144 0.30411,0.40548 0.13356,0.57483 0.36576,1.0973 0.28874,0.64964 0.82387,1.17258 1.0973,1.82881 0.49607,1.19057 0.78989,2.53571 1.46305,3.65764 0.55424,0.92374 1.62582,1.26005 2.37746,2.0117 0.84671,0.84671 1.37562,2.15486 2.0117,3.10899 0.14347,0.21519 0.43298,0.31732 0.54865,0.54864 0.1556,0.31121 0.21847,0.80272 0.36576,1.09729 0.1819,0.3638 0.56652,-0.0536 0.36577,0.54865 -0.12646,0.37935 -1.48906,0.4702 -1.64594,0.54864 -0.52178,0.26089 -0.81404,0.96749 -1.46306,1.0973 -1.01339,0.20267 -0.13388,-0.43174 -1.46305,0.36576 -0.0523,0.0314 0.0578,0.1636 0,0.18288 -0.90637,0.30212 -2.36651,-0.0771 -3.29187,0 -1.34107,0.11176 -2.46905,0.96011 -3.84052,0.73153 -0.73482,-0.12247 -3.75091,-0.84052 -4.0234,-0.73153 -2.71485,1.08594 -5.59,2.29119 -8.59544,1.82882 -0.5555,-0.0855 -1.08884,-0.29148 -1.64594,-0.36576 -0.36255,-0.0483 -0.7352,0.0517 -1.09729,0 -1.0905,-0.15579 -1.74873,-0.43318 -2.74323,-0.73153 -1.72576,-0.51773 -0.23172,-0.007 -1.46305,-0.18288 -0.70736,-0.10105 -1.18096,-0.51558 -1.82882,-0.73153 -0.35178,-0.11726 -0.76562,-0.017 -1.09729,-0.18288 -0.15422,-0.0771 -0.24384,-0.24384 -0.36576,-0.36576"
+       id="path11517"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g12094-83-74"
+       transform="translate(-131.70864,47.479074)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-59"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-52"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-25"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-996"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-16"
+       transform="translate(-146.33918,47.753396)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-98"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-13"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-472"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-97"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-750"
+       transform="translate(-158.6837,46.838987)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-701"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-15"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-81"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-61"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-303"
+       transform="translate(-70.077484,55.983075)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-52"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-78"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-45"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-30"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-92"
+       transform="translate(-85.165231,57.080368)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-85"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-26"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-82"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-15"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-44"
+       transform="translate(-99.338569,57.171807)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-985"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-65"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-50"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-123"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-17"
+       transform="translate(-113.87767,57.44613)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-72"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-401"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-412"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-490"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-45"
+       transform="translate(-128.96542,58.360539)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-19"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-86"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-442"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-551"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-975"
+       transform="translate(-69.071638,67.230305)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-04"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-529"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-73"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-84"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-81"
+       transform="translate(-84.525146,68.053268)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-954"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-07"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-657"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-63"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-11"
+       transform="translate(-99.064246,68.144719)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-79"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-983"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-91"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-800"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-06"
+       transform="translate(-113.32903,68.05327)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-24"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-382"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-18"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-692"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-38"
+       transform="translate(-72.180624,75.917193)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-92"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-45"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-72"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-008"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-536"
+       transform="translate(-86.902608,76.557271)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-134"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-70"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-829"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-02"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g12094-83-08"
+       transform="translate(-102.72188,76.923037)"
+       style="fill:#6f927c;fill-opacity:1"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,145.93965 36.21059,0.18289 c -15.93237,-2.08422 -14.81373,-16.0915 -28.62099,-15.17919 -7.80139,0.99241 -3.77609,11.14135 -7.5896,14.9963 z"
+         id="path11698-6-060"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.225135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.6954,145.92996 36.06706,0.13294 c -15.86921,-1.51506 -14.75501,-11.69724 -28.50753,-11.03406 -7.77048,0.7214 -3.76113,8.09888 -7.55953,10.90112 z"
+         id="path11698-9-3-807"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.189248px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.02894 36.21059,0.0936 c -15.93237,-1.06631 -14.81373,-8.2326 -28.62099,-7.76585 -7.80139,0.50773 -3.77609,5.70004 -7.5896,7.67228 z"
+         id="path11698-8-8-94"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#6f927c;fill-opacity:1;stroke:#000000;stroke-width:0.146159px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 236.64901,146.06674 36.21059,0.0558 c -15.93237,-0.63602 -14.81373,-4.91047 -28.62099,-4.63207 -7.80139,0.30284 -3.77609,3.39989 -7.5896,4.57626 z"
+         id="path11698-89-95-58"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:#d3bc5f;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.198901,160.24138 c 0.813761,-1.2513 1.556036,-1.93496 2.194581,-3.29187 0.638453,-1.35671 1.402723,-2.6532 2.011699,-4.0234 0.07428,-0.16712 -0.08179,-0.38507 0,-0.54864 0.24394,-0.48789 1.775841,-0.36577 2.011701,-0.36577 0.18026,0 1.417328,-0.16003 1.645936,0.18288 1.106868,1.66031 -0.123323,1.47293 2.194581,3.47476 1.753529,1.51441 5.116425,2.3244 7.315271,2.74322 2.906858,0.55369 8.205912,-1.35901 10.607141,-1.82882 0.96467,-0.18874 1.954024,-0.21995 2.926109,-0.36576 0.408929,-0.0613 2.709404,-0.33508 2.743226,-0.18288 0.349631,1.57334 0.05788,3.00159 0.548645,4.57204 0.403974,1.29272 1.356755,1.69532 2.011702,2.74323 0.859586,1.37534 0.758367,1.66607 2.194581,2.74323 0.961863,0.7214 1.976704,1.42443 3.108989,1.82882 0.934553,0.33376 1.951267,0.36296 2.926109,0.54864 2.224947,0.4238 5.361662,0.88321 7.681034,1.46305 0.705985,0.1765 3.094434,2.40499 3.657634,3.10899 0.179097,0.22388 0,1.83617 0,2.19458 0,2.89267 -0.400833,5.45139 1.828819,7.68104 1.81362,1.81362 6.990627,2.5249 9.326971,3.10899 2.84037,0.71009 2.7628,0.67417 6.21798,1.64594 0.61268,0.17231 1.25095,0.28193 1.82882,0.54864 4.61497,2.12999 1.33708,0.89139 4.9378,3.29187 0.20914,0.13943 0.5538,0.005 0.73153,0.18289 0.70699,0.70698 1.17043,1.62501 1.82882,2.37746 0.76219,0.87107 2.21037,2.88533 2.92611,3.47475 0.40206,0.33111 0.99107,0.32839 1.46305,0.54865 0.56899,0.26552 1.48927,0.96905 2.19458,1.09729 1.31063,0.23829 5.42382,0.3176 6.76663,0.91441 2.09281,0.93013 4.06077,2.89073 5.30357,4.75492 1.46839,2.20258 2.30857,3.79296 2.74323,6.40087 0.0714,0.42852 -103.087441,0.54864 -103.693971,0.54864"
+       id="path11231"
+       sodipodi:nodetypes="csssssssscsssssssssssssscsssssssc"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect21414"
+       style="fill:url(#pattern22530)"
+       transform="scale(0.26458333)"
+       d="M 72.336021,177.90752 H 742.91061 l 0.97751,93.35256 c -110.94784,35.51634 -402.36968,-84.13958 -670.574585,0 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f4eed7;fill-opacity:1;stroke-width:0.264583"
+       id="rect21161"
+       width="15.905985"
+       height="175.09514"
+       x="19.009588"
+       y="51.985409"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect21204"
+       style="fill:#f4eed7;stroke-width:0.264583"
+       d="m 19.009588,209.69851 c 44.768996,-13.65901 142.836142,9.57818 186.604352,0.95878 v 17.19916 l -186.604352,-0.7759 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f4eed7;fill-opacity:1;stroke-width:0.264583"
+       id="rect21206"
+       width="1.4224864"
+       height="5.1726775"
+       x="181.04372"
+       y="219.19221"
+       ry="0.71124321"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f4eed7;fill-opacity:1;stroke-width:0.264583"
+       id="rect21310"
+       width="20.561392"
+       height="180.26782"
+       x="184.92322"
+       y="46.812729"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g24371"
+       transform="matrix(0.65556767,0,0,0.48934672,112.05613,41.528871)"
+       style="fill:#a0892c"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -83.28011,122.85109 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -88.330693,122.98388 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-8"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.328835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.51483,122.86513 c 10.208884,-1.24582 4.40326,-9.31561 16.995118,-12.25656 11.136101,3.47357 8.774711,10.31653 17.905571,12.59701"
+         id="path23193-3"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.239561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.58518,123.00499 c 8.47568,-0.79641 3.655701,-5.95516 14.109787,-7.83521 9.245479,2.22054 7.284991,6.59502 14.865668,8.05285"
+         id="path23193-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.0890359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -92.540239,123.17198 c 7.583705,-0.12295 3.270977,-0.91936 12.624883,-1.2096 8.272491,0.34281 6.518324,1.01814 13.301215,1.2432"
+         id="path23193-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g24371-8"
+       transform="matrix(0.32635132,0,0,0.7329196,100.56173,30.703313)"
+       style="fill:#a0892c"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -83.28011,122.85109 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-4"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -88.330693,122.98388 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-8-6"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.328835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.51483,122.86513 c 10.208884,-1.24582 4.40326,-9.31561 16.995118,-12.25656 11.136101,3.47357 8.774711,10.31653 17.905571,12.59701"
+         id="path23193-3-6"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.239561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.58518,123.00499 c 8.47568,-0.79641 3.655701,-5.95516 14.109787,-7.83521 9.245479,2.22054 7.284991,6.59502 14.865668,8.05285"
+         id="path23193-0-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.0890359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -92.540239,123.17198 c 7.583705,-0.12295 3.270977,-0.91936 12.624883,-1.2096 8.272491,0.34281 6.518324,1.01814 13.301215,1.2432"
+         id="path23193-7-3"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g24371-3"
+       transform="matrix(0.65867421,0,0,0.24828547,173.71861,71.582779)"
+       style="fill:#a0892c"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -83.28011,122.85109 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-5"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -88.330693,122.98388 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-8-1"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.328835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.51483,122.86513 c 10.208884,-1.24582 4.40326,-9.31561 16.995118,-12.25656 11.136101,3.47357 8.774711,10.31653 17.905571,12.59701"
+         id="path23193-3-5"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.239561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.58518,123.00499 c 8.47568,-0.79641 3.655701,-5.95516 14.109787,-7.83521 9.245479,2.22054 7.284991,6.59502 14.865668,8.05285"
+         id="path23193-0-4"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.0890359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -92.540239,123.17198 c 7.583705,-0.12295 3.270977,-0.91936 12.624883,-1.2096 8.272491,0.34281 6.518324,1.01814 13.301215,1.2432"
+         id="path23193-7-9"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g24371-2"
+       transform="matrix(0.46962791,0,0,0.45998175,146.13174,75.995404)"
+       style="fill:#a0892c"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -83.28011,122.85109 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-58"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -88.330693,122.98388 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-8-5"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.328835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.51483,122.86513 c 10.208884,-1.24582 4.40326,-9.31561 16.995118,-12.25656 11.136101,3.47357 8.774711,10.31653 17.905571,12.59701"
+         id="path23193-3-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.239561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.58518,123.00499 c 8.47568,-0.79641 3.655701,-5.95516 14.109787,-7.83521 9.245479,2.22054 7.284991,6.59502 14.865668,8.05285"
+         id="path23193-0-8"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.0890359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -92.540239,123.17198 c 7.583705,-0.12295 3.270977,-0.91936 12.624883,-1.2096 8.272491,0.34281 6.518324,1.01814 13.301215,1.2432"
+         id="path23193-7-0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g24371-5"
+       transform="matrix(0.65390756,0,0,0.50629063,143.6336,135.37398)"
+       style="fill:#a0892c"
+       inkscape:export-filename="C:\Code\heavensworld\public\svg\map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -83.28011,122.85109 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -88.330693,122.98388 c 8.700166,-0.9464 3.752525,-7.0767 14.483498,-9.31082 9.490354,2.63873 7.477941,7.83706 15.259399,9.56945"
+         id="path23193-8-50"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.328835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.51483,122.86513 c 10.208884,-1.24582 4.40326,-9.31561 16.995118,-12.25656 11.136101,3.47357 8.774711,10.31653 17.905571,12.59701"
+         id="path23193-3-3"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.239561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.58518,123.00499 c 8.47568,-0.79641 3.655701,-5.95516 14.109787,-7.83521 9.245479,2.22054 7.284991,6.59502 14.865668,8.05285"
+         id="path23193-0-09"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#a0892c;stroke:#000000;stroke-width:0.0890359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -92.540239,123.17198 c 7.583705,-0.12295 3.270977,-0.91936 12.624883,-1.2096 8.272491,0.34281 6.518324,1.01814 13.301215,1.2432"
+         id="path23193-7-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>

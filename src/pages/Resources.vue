@@ -3,7 +3,10 @@
         <heading />
         <message>Fame: <strong>{{ fame }}</strong></message>
         <message>Stones: <strong>{{ stones }}</strong></message>
-        <button @click="$emit('changePage', 'Mountain')">Back</button>
+        
+        <div class="buttons">
+            <img-btn src="svg/mountains.png" @click.native="$emit('changePage', 'Mountain')" label="Hall" />
+        </div>
     </div>
 </template>
 

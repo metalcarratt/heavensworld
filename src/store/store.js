@@ -67,15 +67,7 @@ export default {
 
     orderedDisciples() {
         return store.state.disciples.sort((a,b) => {
-            const aJob = a.activity && a.activity.activity;
-            const bJob = b.activity && b.activity.activity
-            if (aJob && !bJob) {
-                return 1;
-            } else if (!aJob && bJob) {
-                return -1;
-            } else {
-                return 0;
-            }
+            return a.compare(b);
         });
     }
 }
