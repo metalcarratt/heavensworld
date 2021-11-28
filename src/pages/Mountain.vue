@@ -24,7 +24,8 @@
         <button>Cultivate</button>
         <button>Seek Enlightenment</button>
         <button>Develop techniques</button>
-        <button>Travel</button>
+        <button @click="travel">Travel</button>
+        <button @click="mapDesign">Map Designer</button>
     </div>
 </template>
 
@@ -77,6 +78,13 @@ export default {
         showDisciple(disciple) {
             pageStore.setViewDisciple(disciple);
             this.$emit("changePage", "Disciple");
+        },
+        travel() {
+            turnStore.turnOver();
+            this.$emit("changePage", "TravelMap");
+        },
+        mapDesign() {
+            this.$emit("changePage", "MapDesigner");
         }
     }
 }

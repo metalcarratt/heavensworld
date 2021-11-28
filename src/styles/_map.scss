@@ -2,6 +2,7 @@
     display: block;
     height: 50px;
     text-align: center;
+}
 
     .cell {
         width: 50px;
@@ -69,7 +70,25 @@
     }
 
     .cell_outer {
+        height: 48px;
+        display: inline-block;
         position: relative;
+
+        &.up img {
+            border-top: 2px solid black;
+        }
+
+        &.left img {
+            border-left: 2px solid black;
+        }
+
+        &.down img {
+            border-bottom: 2px solid black;
+        }
+
+        &.right img {
+            border-right: 2px solid black;
+        }
 
         .overlay {
             position: absolute;
@@ -85,6 +104,10 @@
             &:hover {
                 cursor: pointer;
                 border: 1px solid white;
+            }
+
+            &.movable {
+                background-color: #ffe0b1ab;
             }
         }
         
@@ -150,8 +173,21 @@
                 border-radius: 4px;
             }
         }
+
+        img.character {
+            position: absolute;
+            top: 7.5px;
+            left: 7.5px;
+
+            width: 35px;
+            height: 35px;
+
+            box-shadow: 0 5px 10px black;
+            border: 2px solid white;
+            border-radius: 5px;
+        }
     }
-}
+
 
 .details {
     width: 400px;

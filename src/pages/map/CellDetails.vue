@@ -21,8 +21,9 @@
 
             <span class="warning" v-if="isMortalTerritory">Mortal territory</span>
         </span>
-        <span class="worker detail" v-if="hasWorker">
+        <span class="worker detail" v-if="hasWorker !== null && hasWorker !== undefined">
             <DiscipleProfile 
+                v-if="hasWorker != null"
                 :disciple="getWorker"
                 :hideJob="true"
                 :role="'mining'"
@@ -49,27 +50,54 @@ export default {
     components: { DiscipleProfile, AssignWorkerModals },
     computed: {
         getLabel() {
-            return this.selected.type + (this.selected.placename !== '' ? ' - ' + this.selected.placename : '');
+            console.log("1");
+            console.log(this.selected);
+            let terrain = '';
+            if (this.selected.type) {
+                switch (this.selected.type.terrain) {
+                    case "F": terrain = "Forest"; break;
+                    case "H": terrain = "Hill"; break;
+                    case "M": terrain = "Mountain"; break;
+                    case "G": terrain = "Grass"; break;
+                    case "L": terrain = "Lake"; break;
+                    case "A": terrain = "Farm"; break;
+                    case "C": terrain = "City"; break;
+                }
+            }
+            let place = '';
+            if (this.selected.type && this.selected.type.place) {
+                place = ' - ' + this.selected.type.place;
+            }
+            return terrain + place;
         },
         hasStones() {
-            return this.selected.stones === 1;
+            console.log("2");
+            return this.selected.type && this.selected.type.stones === 1;
         },
         hasPlants() {
-            return this.selected.plants === 1;
+            console.log("3");
+            return this.selected.type && this.selected.type.plants === 1;
         },
         hasSoil() {
-            return this.selected.soil === 1;
+            console.log("4");
+            return this.selected.type && this.selected.type.soil === 1;
         },
         hasWorker() {
-            return working.hasWorker(this.selected.rowIndex, this.selected.cellIndex);
+            console.log("5");
+            const t = working.hasWorker(this.selected.rowIndex, this.selected.cellIndex);
+            console.log(t);
+            return t;
         },
         getWorker() {
+            console.log("6");
             return working.getWorker(this.selected.rowIndex, this.selected.cellIndex);
         },
         isMortalTerritory() {
-            return this.selected.type === 'city' || this.selected.type === 'farm';
+            console.log("7");
+            return this.selected.type && (this.selected.type.terrain === 'city' || this.selected.type.terrain === 'farm');
         },
         hasHerbs() {
+            console.log("8");
             return store.hasHerbs();
         },
         hasModal: () => modal.showing()

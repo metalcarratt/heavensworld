@@ -1,0 +1,16 @@
+.controls {
+    .btn {
+        width: 30px;
+        height: 30px;
+        background-color: #aaa;
+        color: black;
+        border: 1px solid white;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 10px;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}

@@ -22,6 +22,7 @@ export default {
             return this.processEndTurn();
 
         } else if (stage === turnStore.REPORT) {
+            this.resetVariables();
             return turnStore.REPORT;
         
         } else {
@@ -46,6 +47,10 @@ export default {
                 }
             }
         })
+    },
+
+    resetVariables() {
+        mapStore.resetCharacter();
     },
 
     doMining(disciple) {

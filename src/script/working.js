@@ -10,14 +10,13 @@ export default {
         mapStore.setActivityAt(row, cell, disciple, activity);
     },
     hasWorker: (row, cell) => {
-        return row && mapStore.activity()[row][cell] != null
+        return mapStore.getDiscipleAt(row, cell);
     },
     getWorker(row, cell) {
-        return mapStore.activity()[row][cell].disciple;
+        return mapStore.getDiscipleAt(row, cell);
     },
     removeWorkerAt(row, cell) {
-        const activity = mapStore.activity()[row][cell];
+        mapStore.getDiscipleAt(row, cell).removeJob();
         mapStore.removeActivityAt(row, cell);
-        activity.disciple.removeJob();
     }
 }
